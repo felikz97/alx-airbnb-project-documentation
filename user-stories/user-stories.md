@@ -1,9 +1,9 @@
-🧳 Guest (Traveler) User Stories
-Search and Browse
+# 🧳 Guest (Traveler) User Stories
+## Search and Browse
 
-As a guest, I want to search for listings by location and date so that I can find a place to stay.
+* As a guest, I want to search for listings by location and date so that I can find a place to stay.
 
-As a guest, I want to filter listings by price, amenities, and property type so that I can find suitable accommodation.
+* As a guest, I want to filter listings by price, amenities, and property type so that I can find suitable accommodation.
 
 Booking
 
